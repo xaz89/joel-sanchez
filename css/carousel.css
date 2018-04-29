@@ -8,6 +8,24 @@ body {
   color: #5a5a5a;
 }
 
+/* EXTRAS XAZ
+-------------------------------------------------- */
+
+/* Nav */
+
+.navbar-brand {
+  margin: 0 4em 0 0;
+}
+
+.navbar-brand img {
+
+  height: 40px;
+  border: 1px solid white;
+  border-radius: 50%;
+  margin: 0 1em;
+}
+
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
