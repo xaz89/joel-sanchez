@@ -178,3 +178,24 @@ hr {
   border-color: rgba(238, 227, 50, 0.36);
 }
 
+
+@media (max-width: 40em) {
+
+.titulo h1 {
+  padding-top: 0;
+  font-size: 2rem;
+  color: #eee332 !important;
+  text-shadow: 1px 1px 3px rgb(118, 118, 118);
+  border-radius: 5px;
+  font-weight: 600;
+
+}
+
+.titulo h2 {
+  font-size: 1.1rem!important;
+  font-weight: 300;
+  padding-bottom: 4rem;
+  color: #fff !important;
+}
+
+}
